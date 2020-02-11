@@ -1,0 +1,1 @@
+/home/akshay/Documents/block8/Block8_code_repo/first/target/debug/first: /home/akshay/Documents/block8/Block8_code_repo/first/src/main.rs /home/akshay/Documents/block8/Block8_code_repo/first/src/print.rs /home/akshay/Documents/block8/Block8_code_repo/first/src/vars.rs

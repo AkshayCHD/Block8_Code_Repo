@@ -1,4 +1,7 @@
-mod vars;
+//mod vars;
+//mod tuples;
+mod arrays;
+
 fn main() {
-    vars::run()
+    arrays::run();
 }

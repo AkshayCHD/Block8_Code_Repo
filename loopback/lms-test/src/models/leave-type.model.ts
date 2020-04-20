@@ -16,6 +16,17 @@ export class LeaveType extends Entity {
   })
   daysCount: number;
 
+  @property({
+    type: 'number',
+    required: true,
+  })
+  available: number;
+
+  @property({
+    type: 'number',
+    required: true,
+  })
+  availed: number;
 
   constructor(data?: Partial<LeaveType>) {
     super(data);

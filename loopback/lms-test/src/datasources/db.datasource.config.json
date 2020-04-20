@@ -6,7 +6,7 @@
   "port": 27017,
   "user": "",
   "password": "",
-  "database": "",
+  "database": "Loopback-test",
   "useUnifiedTopology": true,
   "useNewUrlParser": true
 }
